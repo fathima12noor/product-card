@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.img-card{
+    margin-top: 1px;
+    padding: 50px;
+    padding-left:10px;
+    padding-right:0px;
+}
+.img-card{
+float:left;
+height:420px;
+width:300px;
+border-radius:20px;
+border-radius:0 7px 10px 7px;
+}
+
+.product-info{
+    float:left;
+    height:420px;
+    width:200px;
+    border-radius:0 7px 10px 7px;
+    background-color:#FFFAFA;
+    margin-top:50px;
+    padding-left: 30px;
+    padding-right: 100px;
+    
+}
+
+.product-text{
+    height: 300px;
+    width: 300px;
+    margin:20px;
+   font-family: "trocchi",serif;
+}
+
+
+.product-text h2{
+    margin-block-start:0px;
+    margin-left:20px;
+    padding-top:0px;
+    font-size:30px;
+    color:rgb(3, 1, 1);
+    
+
+}
+.product-text h1  
+{   margin-left:0px;
+    margin:100;
+    margin-block-start:0px;
+    padding-top:0px;
+    font-size:20px;
+    color:rgba(0, 0, 0, 0.363);
+    text-size-adjust: 5px;
+    text: spred 10px;
+}
+.product-text p{
+    margin:20px;
+    padding-top:30px;
+    font-size:15px;
+    color:rgba(8, 4, 4, 0.884);
+     margin-left:0px;
+     margin-bottom:10px;
+     font-family: 'Roboto', sans-serif;
+}
+.product-price-btn 
+          {font-family: "Bentham", sans-serif;
+          }
+
+.product-price-btn button{
+    float : left; 
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom:2px;
+    position: relative;
+    color:#fafcfa;
+    display: inline-block;
+    height: 50px;
+    box-sizing: border-box;
+    border: transaparent;
+    letter spacing: 0.2em;
+    background-color:#2E8B57;
+    cursor : pointer;
+    outline : none;
+    border-radius:7px 7px 10px 7px;
+}
+
+.fa fa-shopping-cart{
+    float:left;
+    height:420px;
+    width:200px;
+    border-radius:0 7px 10px 7px;
+    background-color: rgba(240, 255, 244, 0.904);
+    margin-top:50px;
+    padding-left: 5px;
+    padding-right:20px;
+}
+.span1{
+    text-align: center;
+    text-justify: center;
+    color:#2E8B57;
+    margin-top: 40px;
+    font-size: 25px;
+
+}
+.span2{
+     text-align: center;
+     margin: right;
+     color:rgba(22, 14, 14, 0.253)
+}
